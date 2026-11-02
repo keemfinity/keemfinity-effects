@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*_effects.mp4
+*_matte.mkv
+*.effects.json
+.DS_Store

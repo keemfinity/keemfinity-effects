@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pillow
+mediapipe
+# optional: pro cut-out (scripts/matte.py)
+#   rembg onnxruntime          (or onnxruntime-gpu on NVIDIA)
+# optional: word timing (scripts/words.py)
+#   faster-whisper
