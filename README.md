@@ -42,86 +42,52 @@ Every effect tracks your face. Text and graphics slide behind your head instead 
 ### Camera & Light
 Move the camera, change the light, change the mood.
 
-| Effect | What you get |
-|---|---|
-| `locked-on` | Brackets snap onto your face and the camera tracks you |
-| `lean-in` | A hard punch-in on one word |
-| `slow-push` | A slow cinematic push to your face while the room melts away |
-| `over-the-shoulder-zoom` | The camera dives into one corner with a glass graph, then the other corner with a second graph |
-| `spotlight` | Lights out, you stay lit, a glowing word behind you |
-| `led-sign` | The room goes dark and an LED bulb sign types your word behind you |
-| `moody` | One-tap colour grade: moody, black and white, warm, cool or pop |
-| `swipe` | A before/after slider wipes across you |
-| `dot-reveal` | Your shot assembles itself out of glowing dots |
-| `rabbit-hole` | The frame tunnels into itself and spins |
+<table>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/locked-on.jpg" width="180" alt="locked-on"><br><code>locked-on</code><br><sub>Brackets snap onto your face and the camera tracks you</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/lean-in.jpg" width="180" alt="lean-in"><br><code>lean-in</code><br><sub>A hard punch-in on one word</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/slow-push.jpg" width="180" alt="slow-push"><br><code>slow-push</code><br><sub>A slow cinematic push to your face while the room melts away</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/over-the-shoulder-zoom.jpg" width="180" alt="over-the-shoulder-zoom"><br><code>over-the-shoulder-zoom</code><br><sub>The camera dives into one corner with a glass graph, then the other corner with a second graph</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/spotlight.jpg" width="180" alt="spotlight"><br><code>spotlight</code><br><sub>Lights out, you stay lit, a glowing word behind you</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/led-sign.jpg" width="180" alt="led-sign"><br><code>led-sign</code><br><sub>The room goes dark and an LED bulb sign types your word behind you</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/moody.jpg" width="180" alt="moody"><br><code>moody</code><br><sub>One-tap colour grade: moody, black and white, warm, cool or pop</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/swipe.jpg" width="180" alt="swipe"><br><code>swipe</code><br><sub>A before/after slider wipes across you</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/dot-reveal.jpg" width="180" alt="dot-reveal"><br><code>dot-reveal</code><br><sub>Your shot assembles itself out of glowing dots</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/rabbit-hole.jpg" width="180" alt="rabbit-hole"><br><code>rabbit-hole</code><br><sub>The frame tunnels into itself and spins</sub></td></tr>
+</table>
 
 ### Words Behind You
 Big type that sits behind your head, never over your face.
 
-| Effect | What you get |
-|---|---|
-| `backdrop-word` | One giant word drops in behind you |
-| `red-collage` | Black-and-white you, a red word behind, three lines slam in |
-| `pastel-word` | A lavender set, a giant word, and a profile card that gets followed |
-| `cover-star` | You become a magazine cover with the masthead behind your head |
-| `headline-box` | A punch-in with a two-line headline, second line boxed |
-| `split-headline` | A headline card slides down and pushes you to the bottom half |
-| `match-cut` | News pages flash by, all locked on one word behind you |
-| `headline-wall` | Your past headlines stack up behind you, then your total views land |
-| `scribble` | Marker doodles draw themselves around you |
-| `pause-point` | Freeze frame plus a hand-drawn arrow pointing at you |
-| `reject-stamp` | A big red stamp slams down |
+<table>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/backdrop-word.jpg" width="180" alt="backdrop-word"><br><code>backdrop-word</code><br><sub>One giant word drops in behind you</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/red-collage.jpg" width="180" alt="red-collage"><br><code>red-collage</code><br><sub>Black-and-white you, a red word behind, three lines slam in</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/pastel-word.jpg" width="180" alt="pastel-word"><br><code>pastel-word</code><br><sub>A lavender set, a giant word, and a profile card that gets followed</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/cover-star.jpg" width="180" alt="cover-star"><br><code>cover-star</code><br><sub>You become a magazine cover with the masthead behind your head</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/headline-box.jpg" width="180" alt="headline-box"><br><code>headline-box</code><br><sub>A punch-in with a two-line headline, second line boxed</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/split-headline.jpg" width="180" alt="split-headline"><br><code>split-headline</code><br><sub>A headline card slides down and pushes you to the bottom half</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/match-cut.jpg" width="180" alt="match-cut"><br><code>match-cut</code><br><sub>News pages flash by, all locked on one word behind you</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/headline-wall.jpg" width="180" alt="headline-wall"><br><code>headline-wall</code><br><sub>Your past headlines stack up behind you, then your total views land</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/scribble.jpg" width="180" alt="scribble"><br><code>scribble</code><br><sub>Marker doodles draw themselves around you</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/pause-point.jpg" width="180" alt="pause-point"><br><code>pause-point</code><br><sub>Freeze frame plus a hand-drawn arrow pointing at you</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/reject-stamp.jpg" width="180" alt="reject-stamp"><br><code>reject-stamp</code><br><sub>A big red stamp slams down</sub></td></tr>
+</table>
 
 ### Your Reels
 Show off your feed. Point it at a folder of your screenshots or clips.
 
-| Effect | What you get |
-|---|---|
-| `orbit` | Your reels orbit your head, in front at the bottom, behind at the top |
-| `phone-fan` | Your reels fan out in front of you like a hand of phones |
-| `carousel-spin` | Your reels spin around you in 3D, then slow to a stop |
-| `place-in-grid` | You shrink into the middle of your 3x3 grid as your reels pop in around you |
-| `profile-wall` | Your profile grid fills the wall while a counter ticks up |
-| `noise` | Reels pile up behind your head, four a second |
-| `lineup` | Numbered tiles fan out in an arc above your head |
-| `check-pills` | Grid-paper studio, reels pinned up, blue pills get clicked |
-| `reel-frame` | Your video shrinks into an Instagram reel card |
-| `broll-split` | B-roll up top with a price-tag sticker, you below |
+<table>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/orbit.jpg" width="180" alt="orbit"><br><code>orbit</code><br><sub>Your reels orbit your head, in front at the bottom, behind at the top</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/phone-fan.jpg" width="180" alt="phone-fan"><br><code>phone-fan</code><br><sub>Your reels fan out in front of you like a hand of phones</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/carousel-spin.jpg" width="180" alt="carousel-spin"><br><code>carousel-spin</code><br><sub>Your reels spin around you in 3D, then slow to a stop</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/place-in-grid.jpg" width="180" alt="place-in-grid"><br><code>place-in-grid</code><br><sub>You shrink into the middle of your 3x3 grid as your reels pop in around you</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/profile-wall.jpg" width="180" alt="profile-wall"><br><code>profile-wall</code><br><sub>Your profile grid fills the wall while a counter ticks up</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/noise.jpg" width="180" alt="noise"><br><code>noise</code><br><sub>Reels pile up behind your head, four a second</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/lineup.jpg" width="180" alt="lineup"><br><code>lineup</code><br><sub>Numbered tiles fan out in an arc above your head</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/check-pills.jpg" width="180" alt="check-pills"><br><code>check-pills</code><br><sub>Grid-paper studio, reels pinned up, blue pills get clicked</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/reel-frame.jpg" width="180" alt="reel-frame"><br><code>reel-frame</code><br><sub>Your video shrinks into an Instagram reel card</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/broll-split.jpg" width="180" alt="broll-split"><br><code>broll-split</code><br><sub>B-roll up top with a price-tag sticker, you below</sub></td></tr>
+</table>
 
 ### Claude At Work
 Show the AI doing the edit.
 
-| Effect | What you get |
-|---|---|
-| `glass-widgets` | Frosted glass widgets float around your head, with an "Edited by Claude" pill |
-| `checklist` | A Claude task list builds under your chin, each step ticks green |
-| `render-split` | "Claude renders it": a purple render window with tracks and a moving playhead, you below |
-| `timeline` | A red cinematic grade with an editing timeline and REC timecode |
-| `apple-toggles` | iPhone switches flip on one line at a time |
-| `the-bill` | Your prompt prints out like a receipt |
-| `todo` | A checklist card beside your head ticks off as you talk |
-| `shortcut-rain` | Keyboard keys rain down behind you |
-| `uninstall` | A glitchy uninstall bar breaks the frame apart |
+<table>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/glass-widgets.jpg" width="180" alt="glass-widgets"><br><code>glass-widgets</code><br><sub>Frosted glass widgets float around your head, with an "Edited by Claude" pill</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/checklist.jpg" width="180" alt="checklist"><br><code>checklist</code><br><sub>A Claude task list builds under your chin, each step ticks green</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/render-split.jpg" width="180" alt="render-split"><br><code>render-split</code><br><sub>"Claude renders it": a purple render window with tracks and a moving playhead, you below</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/timeline.jpg" width="180" alt="timeline"><br><code>timeline</code><br><sub>A red cinematic grade with an editing timeline and REC timecode</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/apple-toggles.jpg" width="180" alt="apple-toggles"><br><code>apple-toggles</code><br><sub>iPhone switches flip on one line at a time</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/the-bill.jpg" width="180" alt="the-bill"><br><code>the-bill</code><br><sub>Your prompt prints out like a receipt</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/todo.jpg" width="180" alt="todo"><br><code>todo</code><br><sub>A checklist card beside your head ticks off as you talk</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/shortcut-rain.jpg" width="180" alt="shortcut-rain"><br><code>shortcut-rain</code><br><sub>Keyboard keys rain down behind you</sub></td></tr>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/uninstall.jpg" width="180" alt="uninstall"><br><code>uninstall</code><br><sub>A glitchy uninstall bar breaks the frame apart</sub></td></tr>
+</table>
 
 ### Social
 The engagement moments.
 
-| Effect | What you get |
-|---|---|
-| `documentary` | Docu-series look: black-and-white you, pink halo, bold lines and a Follow button that gets tapped |
-| `comment-box` | An Instagram comment types your word and posts it |
-| `messages` | iMessage notifications stack up: "how did you edit this??" |
-| `tap` | A Follow button pops up and flips to Following |
+<table>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/documentary.jpg" width="180" alt="documentary"><br><code>documentary</code><br><sub>Docu-series look: black-and-white you, pink halo, bold lines and a Follow button that gets tapped</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/comment-box.jpg" width="180" alt="comment-box"><br><code>comment-box</code><br><sub>An Instagram comment types your word and posts it</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/messages.jpg" width="180" alt="messages"><br><code>messages</code><br><sub>iMessage notifications stack up: "how did you edit this??"</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/tap.jpg" width="180" alt="tap"><br><code>tap</code><br><sub>A Follow button pops up and flips to Following</sub></td></tr>
+</table>
 
 ### Numbers
 Charts and counters. Use your real numbers.
 
-| Effect | What you get |
-|---|---|
-| `liquid-glass-graph` | A liquid glass card with a graph that climbs as the number counts up |
-| `chart-split` | A cream bar chart of your top reels drops over the top half, you below |
-| `tier-list` | A tier list drops in and Claude flies into S tier |
-| `countdown-flip` | A 3, 2, 1 flip clock above your head |
+<table>
+<tr><td align="center" valign="top" width="25%"><img src="assets/effects/liquid-glass-graph.jpg" width="180" alt="liquid-glass-graph"><br><code>liquid-glass-graph</code><br><sub>A liquid glass card with a graph that climbs as the number counts up</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/chart-split.jpg" width="180" alt="chart-split"><br><code>chart-split</code><br><sub>A cream bar chart of your top reels drops over the top half, you below</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/tier-list.jpg" width="180" alt="tier-list"><br><code>tier-list</code><br><sub>A tier list drops in and Claude flies into S tier</sub></td><td align="center" valign="top" width="25%"><img src="assets/effects/countdown-flip.jpg" width="180" alt="countdown-flip"><br><code>countdown-flip</code><br><sub>A 3, 2, 1 flip clock above your head</sub></td></tr>
+</table>
 
 ## Pro moves
 
